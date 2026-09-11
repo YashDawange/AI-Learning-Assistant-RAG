@@ -3,3 +3,6 @@ __*
 node_*
 uploaded_documents/*
 front-chatdoc/node*
+
+__pycache__/
+front-chatdoc/node_modules/
