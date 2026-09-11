@@ -51,5 +51,5 @@ This project provides a local solution for interacting with PDF documents using 
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/devcom33/AI-Learning-Assistant-RAG.git
+git clone https://github.com/YashDawange/AI-Learning-Assistant-RAG.git
 cd AI-Learning-Assistant-RAG
